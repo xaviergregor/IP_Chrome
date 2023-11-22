@@ -1,6 +1,6 @@
 # Mon Adresse IP
 
-Extension Chrome pour afficher l'IP publique sur Chrome
+Extension pour afficher l'IP publique sur Chrome
 
 Pour charger l'extension vous devez activer le mode développeur : 
 ![Capture d’écran 2023-10-20 à 16 45 54](https://github.com/xaviergregor/mon_adresse_ip/assets/10099235/baca07d6-36f5-4985-aba0-fc6d19562ae5)
