@@ -3,7 +3,6 @@
   "name": "Mon Adresse IP",
   "version": "1.3",
   "description": "Affiche votre adresse IP Internet (par Xavier Gregor)",
-  "permissions": ["activeTab", "storage", "webRequest"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
